@@ -1,0 +1,6 @@
+{
+  "name": "Wale Belo Advisory",
+  "description": "Premium tech consulting and cyber security advisory MVP website for Engineer Wale Belo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
